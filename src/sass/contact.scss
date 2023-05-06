@@ -1,0 +1,47 @@
+.contact-section{
+    .contact-head{
+        text-align: center; 
+        color: $black-clr;
+        font-family: $poppins;
+        margin-top: 10px;
+        font-size: 30px;   
+    }
+
+    .contact-details{
+        margin-top: 50px;
+    }
+
+    .contact-card{
+        .info-box{
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            box-shadow: 0 0 10px rgba(214, 215, 216, 0.6);
+            padding: 20px;
+
+            i{
+                font-size: 30px;
+                width: 12%;
+                color: $black-clr;
+                text-align: center;
+            }
+      
+            h3{
+                width: 50%;
+                margin-left: 16px;
+                margin-bottom: 0;
+                font-size: 20px;
+                font-family: $poppins;
+            }
+            p{
+                width: 100%;
+                margin-left: 64px;
+                font-family: $nunito;
+                font-size: 17px;
+                margin-bottom: 0;
+            }
+
+        }
+    }
+
+}
