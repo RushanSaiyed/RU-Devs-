@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ru-Devs/static/css/main.5475b67f.css",
+    "main.js": "/Ru-Devs/static/js/main.5896bc47.js",
+    "static/js/787.d3befce1.chunk.js": "/Ru-Devs/static/js/787.d3befce1.chunk.js",
+    "static/media/wordpress.png": "/Ru-Devs/static/media/wordpress.eedb3ed8ae8bfadfea7e.png",
+    "static/media/python.png": "/Ru-Devs/static/media/python.d8b377f05522bf35de36.png",
+    "static/media/js.png": "/Ru-Devs/static/media/js.0ff9e789452c0e7129e2.png",
+    "static/media/angular.png": "/Ru-Devs/static/media/angular.d3315e790fdf8da66905.png",
+    "static/media/banner2.svg": "/Ru-Devs/static/media/banner2.3566d18d9e1a265fd8e17b8009bd37d9.svg",
+    "static/media/shopify.png": "/Ru-Devs/static/media/shopify.ee2d71f2c2b017f10739.png",
+    "static/media/react.png": "/Ru-Devs/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/django.png": "/Ru-Devs/static/media/django.4c399895f677cd3bfbc8.png",
+    "static/media/startup.svg": "/Ru-Devs/static/media/startup.0a6480a7bc255fccc4f72fd4255628c7.svg",
+    "static/media/php1.png": "/Ru-Devs/static/media/php1.3fc15cf443a81ef2d0a4.png",
+    "static/media/node1.png": "/Ru-Devs/static/media/node1.478c590a266bed215577.png",
+    "index.html": "/Ru-Devs/index.html",
+    "main.5475b67f.css.map": "/Ru-Devs/static/css/main.5475b67f.css.map",
+    "main.5896bc47.js.map": "/Ru-Devs/static/js/main.5896bc47.js.map",
+    "787.d3befce1.chunk.js.map": "/Ru-Devs/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5475b67f.css",
+    "static/js/main.5896bc47.js"
+  ]
+}
